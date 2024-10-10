@@ -1,4 +1,4 @@
-Industry Research and Generative AI Use Case Generator  
+#Industry Research and Generative AI Use Case Generator  
 
 This project is designed to streamline industry research and use case generation by leveraging Generative AI (GenAI) and Large Language Models (LLMs). It automates the process of researching industries, generating relevant AI and ML-based use cases, and gathering datasets and resources for practical applications. The project is built using LangChain, Google Generative AI (Gemini), and Streamlit to provide a user-friendly interface for interaction.  
 
